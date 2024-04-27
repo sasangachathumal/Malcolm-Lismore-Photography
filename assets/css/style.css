@@ -1,0 +1,131 @@
+.login-page .card-login .logo-container {
+  width: auto;
+  margin-bottom: auto;
+}
+.landing-page .brand-margin-top {
+  margin-top: 50vh;
+}
+
+.navbar-brand .navbar-brand-img {
+  width: 64px;
+}
+
+.top-bottom-margin-0 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+.enquiry-table td {
+  height: 64px;
+  vertical-align: middle;
+}
+
+.enquiry-table td[class|="pending"] {
+  color: sandybrown;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.enquiry-table td[class|="approved"] {
+  color: forestgreen;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.enquiry-table td[class|="rejected"] {
+  color: tomato;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.enquiry-table th .action-col {
+  width: 155px !important;
+}
+
+.package-table th .action-col {
+  width: 175px !important;
+}
+
+.package-table th.info-col {
+  width: 250px !important;
+}
+
+.package-table td.info-col {
+  /* width: 250px !important; */
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.select-editable:focus {
+  outline: none;
+}
+
+.banner-logo-container {
+  height: 100vh !important;
+}
+
+.banner-logo-container img {
+  /* width: 50%; */
+  height: 50%;
+}
+
+.section-story-overview .image-container:nth-child(2) {
+  margin-top: 60px;
+  margin-left: 0;
+  margin-right: -50px;
+}
+
+.section {
+  padding: 70px 0 0 0 !important;
+}
+
+.section-gallery {
+  background: url(../img/blurred-image-1.jpg);
+  /* background-color: #f9643283; */
+  padding-bottom: 50px !important;
+}
+
+.section-gallery .title,
+.section-service .title {
+  padding-top: 0 !important;
+  margin-bottom: 20px;
+}
+
+.section-gallery .btn-explore,
+.section-service .btn-explore {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.section-service {
+  padding-bottom: 70px !important;
+}
+
+.home-package-info {
+  overflow: hidden;
+  width: 100%;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.package-image {
+  padding: 25px;
+}
+
+.package-image img {
+  width: 50%;
+}
+
+.login-card-body {
+  padding-bottom: 0;
+}
+
+.login-card-footer {
+  margin-top: 0;
+}
+
+.login-page .card-login .input-group:last-child {
+  margin-bottom: 10px;
+}
